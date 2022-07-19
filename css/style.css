@@ -2242,7 +2242,6 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #000000;
-  background-color:  #7ED957;
   border-color: #7ED957;
 }
 
@@ -7539,7 +7538,8 @@ h6,
   padding: 30px 15px;
   font-weight: 600;
   letter-spacing: 1px;
-  color: #FFFFFF;
+  color: #7ED957
+  ;
   outline: none;
 }
 
@@ -7633,7 +7633,8 @@ h6,
 .footer p,
 .footer a,
 .footer i {
-  color: #CCCCCC !important;
+  color: #7ED957
+  !important;
 }
 
 .footer .btn-primary i {
