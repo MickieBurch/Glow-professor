@@ -60,7 +60,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #21e02a;
+  color: #7ED957;
   text-align: left;
   background-color: #211E1C
 
@@ -134,7 +134,7 @@ a {
 }
 
 a:hover {
-  color:#7ED957;
+  color:#ffffff;
   text-decoration: underline;
 }
 
@@ -3904,7 +3904,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-brand:hover, .navbar-brand:focus {
-  text-decoration: none;
+  text-decoration: #7ED957;
 }
 
 .navbar-nav {
@@ -6030,7 +6030,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #FFFFFF !important;
+  background-color: #211E1C !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -6050,7 +6050,7 @@ button.bg-dark:focus {
 }
 
 .bg-white {
-  background-color: #fff !important;
+  background-color: #211E1C !important;
 }
 
 .bg-transparent {
@@ -7321,7 +7321,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 .text-dark {
-  color: #211E1C !important;
+  color: #FFFFFF !important;
 }
 
 a.text-dark:hover, a.text-dark:focus {
@@ -7530,13 +7530,13 @@ h6,
   padding: 30px 15px;
   font-weight: 600;
   letter-spacing: 1px;
-  color: #211E1C;
+  color: #FFFFFF;
   outline: none;
 }
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-  color: #F9A392;
+  color: #FFFFFF;
 }
 
 @media (max-width: 991.98px) {
